@@ -1,0 +1,2200 @@
+[
+  {
+    "name": "Akwinduu Chapaa",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Akwinduu_Chapaa.png",
+    "description": "Chapaa patties in mushroom gravy, served with roast potatoes. Invented by a wealthy Akwinduu chef and loved by fancy people worldwide.",
+    "focus": "250",
+    "sell_price": "51 Gold",
+    "star_sell_price": "64 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Chapaa Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Potato",
+        "quantity": 1
+      },
+      {
+        "name": "Any Mushroom",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Apple Pie",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Apple_Pie.png",
+    "description": "An apple pie made with heartwarming spices. A Daiya family recipe specially created to beat those snobs in Harvest Meadows.",
+    "focus": "325",
+    "sell_price": "109 Gold",
+    "star_sell_price": "154 Gold",
+    "station": "Standard Oven",
+    "ingredients": [
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 1
+      },
+      {
+        "name": "Sweet Leaf",
+        "quantity": 1
+      },
+      {
+        "name": "Apple",
+        "quantity": 3
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Bacon-Stuffed Mushrooms",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Bacon-Stuffed_Mushrooms.png",
+    "description": "Sautéed mushroom caps stuffed with bacon and tomato. A dish Delaila used to win Badruu's heart.",
+    "focus": "225",
+    "sell_price": "35 Gold",
+    "star_sell_price": "55 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Any Mushroom",
+        "quantity": 1
+      },
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Bean Burger",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Bean_Burger.png",
+    "description": "A burger for the health-conscious... or just the bean lover!",
+    "focus": "800",
+    "sell_price": "221 Gold",
+    "star_sell_price": "331 Gold",
+    "station": "Prep Station",
+    "ingredients": [
+      {
+        "name": "Milk",
+        "quantity": 1
+      },
+      {
+        "name": "Tomato",
+        "quantity": 2
+      },
+      {
+        "name": "Onion",
+        "quantity": 2
+      },
+      {
+        "name": "Batterfly Beans",
+        "quantity": 3
+      },
+      {
+        "name": "Vinegar",
+        "quantity": 3
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Egg",
+        "quantity": 1
+      },
+      {
+        "name": "Cooking Oil",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Blueberry Pie",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Blueberry_Pie.png",
+    "description": "A pie with a sweet and tangy blueberry filling, perfect for a summer picnic.",
+    "focus": "225",
+    "sell_price": "66 Gold",
+    "star_sell_price": "90 Gold",
+    "station": "Standard Oven",
+    "ingredients": [
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 1
+      },
+      {
+        "name": "Blueberries",
+        "quantity": 2
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Sweet Leaf",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Bouillabaisse",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Bouillabaisse.png",
+    "description": "A rich seafood stew, served with potatoes and bread. Perhaps ancient humans once enjoyed this.",
+    "focus": "350",
+    "sell_price": "67 Gold",
+    "star_sell_price": "91 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Any Bass",
+        "quantity": 1
+      },
+      {
+        "name": "Oyster Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 1
+      },
+      {
+        "name": "Potato",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Celebration Cake",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Celebration_Cake.png",
+    "description": "Delicious, decorated, and designed for special occasions, it's a piece of cake to make this pretty cake. Just do the cooking by the book.",
+    "focus": "825",
+    "sell_price": "188 Gold",
+    "star_sell_price": "280 Gold",
+    "station": "Prep Station",
+    "ingredients": [
+      {
+        "name": "Blueberries",
+        "quantity": 1
+      },
+      {
+        "name": "Butter",
+        "quantity": 4
+      },
+      {
+        "name": "Egg",
+        "quantity": 3
+      },
+      {
+        "name": "Flour",
+        "quantity": 3
+      },
+      {
+        "name": "Sweet Leaf",
+        "quantity": 4
+      },
+      {
+        "name": "Any Fruit",
+        "quantity": 3
+      },
+      {
+        "name": "Milk",
+        "quantity": 1
+      },
+      {
+        "name": "Sugar",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "name": "Chapaa Asada Tacos",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Chapaa_Asada_Tacos.png",
+    "description": "Seasoned chapaa meat fresh off the grill, and thinly-chopped onions tucked snugly into a crispy corn tortilla. What's not to like?",
+    "focus": "250",
+    "sell_price": "50 Gold",
+    "star_sell_price": "69 Gold",
+    "station": "Prep Station",
+    "ingredients": [
+      {
+        "name": "Salt",
+        "quantity": 1
+      },
+      {
+        "name": "Chapaa Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Corn",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Chapaa Masala",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Chapaa_Masala.png",
+    "description": "Tender cubes of chapaa meat cooked in a rich curry, garnished with fresh cream. For those who need more spice in their life.",
+    "focus": "525",
+    "sell_price": "130 Gold",
+    "star_sell_price": "135 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Milk",
+        "quantity": 1
+      },
+      {
+        "name": "Chapaa Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 2
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1
+      },
+      {
+        "name": "Dari Cloves",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      },
+      {
+        "name": "Heat Root",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Chapaa Onigiri",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Chapaa_Onigiri.png",
+    "description": "Bring home the taste of Maji Market by making these rice balls stuffed with buttery chapaa meat. They fit conveniently in your pockets!",
+    "focus": "200",
+    "sell_price": "34 Gold",
+    "star_sell_price": "55 Gold",
+    "station": "Prep Station",
+    "ingredients": [
+      {
+        "name": "Salt",
+        "quantity": 1
+      },
+      {
+        "name": "Rice",
+        "quantity": 1
+      },
+      {
+        "name": "Chapaa Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Chili Oil Dumplings",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Chili_Oil_Dumplings.png",
+    "description": "Dumplings, except with chili oil to give each bite a nice fiery kick. Best enjoyed in anything but a white shirt.",
+    "focus": "350",
+    "sell_price": "61 Gold",
+    "star_sell_price": "97 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Any Vegetable",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 1
+      },
+      {
+        "name": "Rice",
+        "quantity": 1
+      },
+      {
+        "name": "Cooking Oil",
+        "quantity": 1
+      },
+      {
+        "name": "Spicy Pepper",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Crab Gumbo",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Crab_Gumbo.png",
+    "description": "The only thing better than crab is crab stewed with mouth-watering ingredients that give the dish a hint of salt, spice, and everything nice.",
+    "focus": "250",
+    "sell_price": "45 Gold",
+    "star_sell_price": "63-79 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Flour",
+        "quantity": 1
+      },
+      {
+        "name": "Oyster Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Cooking Oil",
+        "quantity": 2
+      },
+      {
+        "name": "Any Crab",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Spicy Pepper",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Crab Pot Pie",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Crab_Pot_Pie.png",
+    "description": "This pie has it all: a flaky, buttery crust, hearty stewed veggies, and an irresistibly decadent crab filling. Serve it at the dinner table, and your guests will be singing your praises for years to come.",
+    "focus": "225",
+    "sell_price": "62 Gold",
+    "star_sell_price": "102 Gold",
+    "station": "Standard Oven",
+    "ingredients": [
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Corn",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Any Vegetable",
+        "quantity": 1
+      },
+      {
+        "name": "Any Crab",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cream of Mushroom Soup",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Cream_of_Mushroom_Soup.png",
+    "description": "Mushroom soup packed with alliums and earthy flavors, thickened with cream. Jina's favorite brain food.",
+    "focus": "250",
+    "sell_price": "51 Gold",
+    "star_sell_price": "64 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Any Mushroom",
+        "quantity": 1
+      },
+      {
+        "name": "Milk",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Cream of Tomato Soup",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Cream_of_Tomato_Soup.png",
+    "description": "A tomato soup thickened with cream, served with a baguette. Seems like Reth may be trying something new.",
+    "focus": "275",
+    "sell_price": "46 Gold",
+    "star_sell_price": "73 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Tomato",
+        "quantity": 1
+      },
+      {
+        "name": "Milk",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Creamy Carrot Soup",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Creamy_Carrot_Soup.png",
+    "description": "A yummy, cream soup guaranteed to use up all your carrots. If you didn't feed them to the ormuu already.",
+    "focus": "100",
+    "sell_price": "32 Gold",
+    "star_sell_price": "37 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Carrot",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Milk",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Elderwood Pie",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Elderwood_Pie.png",
+    "description": "A savory pie made from ingredients native to the Elderwood. Little Bumble's favorite!",
+    "focus": "400",
+    "sell_price": "91 Gold",
+    "star_sell_price": "139 Gold",
+    "station": "Standard Oven",
+    "ingredients": [
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 3
+      },
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Flowtato",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fish Stew",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Fish_Stew.png",
+    "description": "A basic fish stock seasoned with garlic and spices. Buffs fishing reticle speed for a short time.",
+    "focus": "100",
+    "sell_price": "29 Gold",
+    "star_sell_price": "29 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Any Fish",
+        "quantity": 1
+      },
+      {
+        "name": "Any Spice",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fish Tacos",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Fish_Tacos.png",
+    "description": "Loaded with perfectly seasoned fish, these crunchy tacos will have you jumping over the moons.",
+    "focus": "100",
+    "sell_price": "35 Gold",
+    "star_sell_price": "72 Gold",
+    "station": "Prep Station",
+    "ingredients": [
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Any Fish",
+        "quantity": 1
+      },
+      {
+        "name": "Corn",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Flowtato Fries with Ketchup",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Flowtato_Fries_with_Ketchup.png",
+    "description": "Crispy on the outside, fluffy on the inside, with homemade tangy ketchup.",
+    "focus": "300",
+    "sell_price": "72 Gold",
+    "star_sell_price": "111 Gold",
+    "station": "Prep Station",
+    "ingredients": [
+      {
+        "name": "Salt",
+        "quantity": 1
+      },
+      {
+        "name": "Cooking Oil",
+        "quantity": 1
+      },
+      {
+        "name": "Flowtato",
+        "quantity": 1
+      },
+      {
+        "name": "Vinegar",
+        "quantity": 1
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fried Catfish Dinner",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Fried_Catfish_Dinner.png",
+    "description": "Battered, fried catfish served with a fresh, tomato salsa. Taylin's favorite weeknight dish for picky children.",
+    "focus": "225",
+    "sell_price": "51 Gold",
+    "star_sell_price": "63 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Any Catfish",
+        "quantity": 1
+      },
+      {
+        "name": "Flour",
+        "quantity": 1
+      },
+      {
+        "name": "Any Spice",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Fruit Smoothie Bowl",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Fruit_Smoothie_Bowl.png",
+    "description": "A popular breakfast in Akwinduu for how easy it is to customize!",
+    "focus": "325",
+    "sell_price": "95 Gold",
+    "star_sell_price": "142 Gold",
+    "station": "Mixing Station",
+    "ingredients": [
+      {
+        "name": "Milk",
+        "quantity": 1
+      },
+      {
+        "name": "Blueberries",
+        "quantity": 1
+      },
+      {
+        "name": "Apple",
+        "quantity": 3
+      },
+      {
+        "name": "Piksii Berries",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Grilled Fish",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Grilled_Fish.png",
+    "description": "Grill fish on a fire, and you've got food.",
+    "focus": "50",
+    "sell_price": "60 Gold",
+    "star_sell_price": "60 Gold",
+    "station": "Campfire",
+    "ingredients": [
+      {
+        "name": "Any Fish",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "name": "Grilled Meat",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Grilled_Meat.png",
+    "description": "When heat grills meat, you've got a great meal.",
+    "focus": "50",
+    "sell_price": "30 Gold",
+    "star_sell_price": "48 Gold",
+    "station": "Campfire",
+    "ingredients": [
+      {
+        "name": "Any Red Meat",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "name": "Grilled Mushroom",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Grilled_Mushroom.png",
+    "description": "Munch on these mushrooms grilled over a campfire.",
+    "focus": "50",
+    "sell_price": "33 Gold",
+    "star_sell_price": "270 Gold",
+    "station": "Campfire",
+    "ingredients": [
+      {
+        "name": "Any Mushroom",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "name": "Grilled Oyster",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Grilled_Oyster.png",
+    "description": "Oysters grilled over an open fire, no oven needed!",
+    "focus": "55",
+    "sell_price": "33 Gold",
+    "star_sell_price": "49 Gold",
+    "station": "Campfire",
+    "ingredients": [
+      {
+        "name": "Oyster Meat",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "name": "Hearty Vegetable Soup",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Hearty_Vegetable_Soup.png",
+    "description": "A classic Kilima soup packed with foraged mushrooms and farm-fresh vegetables, made any way you like.",
+    "focus": "100",
+    "sell_price": "24 Gold",
+    "star_sell_price": "34 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Any Vegetable",
+        "quantity": 1
+      },
+      {
+        "name": "Any Spice",
+        "quantity": 1
+      },
+      {
+        "name": "Any Mushroom",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Hot Hounds",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Hot_Hounds.png",
+    "description": "A freshly-cooked sausage drizzled in sauce and wrapped in a toasty bread bun. Eat it while it's hot!",
+    "focus": "175",
+    "sell_price": "33 Gold",
+    "star_sell_price": "46 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Cooking Oil",
+        "quantity": 1
+      },
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Spicy Pepper",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Kimchi Fried Rice",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Kimchi_Fried_Rice.png",
+    "description": "Take your tastebuds on an adventure of a lifetime with a hot bowl of kimchi fried rice. Its strong and addicting flavors will have you wanting seconds.",
+    "focus": "175",
+    "sell_price": "35 Gold",
+    "star_sell_price": "60 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Any Kimchi",
+        "quantity": 1
+      },
+      {
+        "name": "Egg",
+        "quantity": 1
+      },
+      {
+        "name": "Cooking Oil",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      },
+      {
+        "name": "Rice",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Green Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Loaded Flowtato",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Loaded_Flowtato.png",
+    "description": "This Loaded Flowtato is the perfect side dish. Pick a big enough Flowtato and it can be an entire meal on its own!",
+    "focus": "200",
+    "sell_price": "42 Gold",
+    "star_sell_price": "72 Gold",
+    "station": "Standard Oven",
+    "ingredients": [
+      {
+        "name": "Flowtato",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Milk",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Loaded Potato Soup",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Loaded_Potato_Soup.png",
+    "description": "A dense, potato soup packed with filling bacon. Najuma's treat for her father after a long day in the mines.",
+    "focus": "250",
+    "sell_price": "50 Gold",
+    "star_sell_price": "79 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Potato",
+        "quantity": 1
+      },
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Lucky Braised Fish",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Lucky_Braised_Fish.png",
+    "description": "A whole fish, braised in a savory deep-colored soy sauce and topped with ginger and scallions. Enjoy it during Luna New Year for an abundance of good luck.",
+    "focus": "1100",
+    "sell_price": "187 Gold",
+    "star_sell_price": "198 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Cooking Oil",
+        "quantity": 5
+      },
+      {
+        "name": "Wild Ginger",
+        "quantity": 2
+      },
+      {
+        "name": "Any Bass",
+        "quantity": 1
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 4
+      },
+      {
+        "name": "Sugar",
+        "quantity": 4
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 4
+      },
+      {
+        "name": "Wild Green Onion",
+        "quantity": 5
+      },
+      {
+        "name": "Vinegar",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Macaron",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Macaron.png",
+    "description": "Light, delicate cookie sandwiches filled with buttercream. It's hard to eat just one.",
+    "focus": "100",
+    "sell_price": "21 Gold",
+    "star_sell_price": "30 Gold",
+    "station": "Mixing Station",
+    "ingredients": [
+      {
+        "name": "Flour",
+        "quantity": 1
+      },
+      {
+        "name": "Egg",
+        "quantity": 1
+      },
+      {
+        "name": "Milk",
+        "quantity": 1
+      },
+      {
+        "name": "Sweet Leaf",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Meaty Stir Fry",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Meaty_Stir_Fry.png",
+    "description": "A healthy mix of sautéed meat and vegetables, served with rice. Still filled with the heat of the wok even after it's served.",
+    "focus": "250",
+    "sell_price": "36 Gold",
+    "star_sell_price": "61 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Cooking Oil",
+        "quantity": 1
+      },
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      },
+      {
+        "name": "Any Vegetable",
+        "quantity": 1
+      },
+      {
+        "name": "Rice",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Mushroom Dumpling Soup",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Mushroom_Dumpling_Soup.png",
+    "description": "Not only is mushroom dumpling soup good for your health, but soothing for the soul, too. One steaming bowl will leave you feeling rejuvenated.",
+    "focus": "375",
+    "sell_price": "58 Gold",
+    "star_sell_price": "70 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Any Mushroom",
+        "quantity": 1
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 1
+      },
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Ginger",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 1
+      },
+      {
+        "name": "Carrot",
+        "quantity": 1
+      },
+      {
+        "name": "Bok Choy",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Green Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Mushroom Quiche",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Mushroom_Quiche.png",
+    "description": "A savory quiche. The mushrooms complement the cheese perfectly.",
+    "focus": "100",
+    "sell_price": "29 Gold",
+    "star_sell_price": "40 Gold",
+    "station": "Standard Oven",
+    "ingredients": [
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Egg",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 1
+      },
+      {
+        "name": "Any Mushroom",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Muujin Bahari",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Muujin_Bahari.png",
+    "description": "A rich, meaty, sumptuous dish that was the favorite of Baron Hepzikiah von Bahari. Legend tells he would eat five a day, every day, and nothing else. Historians remain divided on what role, if any, this diet had in the massive heart attack that claimed his life at the tragically young age of 27.",
+    "focus": "925",
+    "sell_price": "206 Gold",
+    "star_sell_price": "288 Gold",
+    "station": "Standard Oven",
+    "ingredients": [
+      {
+        "name": "Butter",
+        "quantity": 2
+      },
+      {
+        "name": "Wheat",
+        "quantity": 2
+      },
+      {
+        "name": "Corn",
+        "quantity": 2
+      },
+      {
+        "name": "Salt",
+        "quantity": 3
+      },
+      {
+        "name": "Chapaa Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Any Mushroom",
+        "quantity": 1
+      },
+      {
+        "name": "Spicy Pepper",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 2
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      },
+      {
+        "name": "Muujin Meat",
+        "quantity": 3
+      },
+      {
+        "name": "Plant Fiber",
+        "quantity": 3
+      },
+      {
+        "name": "Cooking Oil",
+        "quantity": 3
+      },
+      {
+        "name": "Vinegar",
+        "quantity": 1
+      },
+      {
+        "name": "Egg",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Oysters Akwinduu",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Oysters_Akwinduu.png",
+    "description": "Spiced veggies and meat baked on the half shell. Recently voted 'Most inefficient way to eat bacon' by Stew & Brine Magazine.",
+    "focus": "350",
+    "sell_price": "90 Gold",
+    "star_sell_price": "109 Gold",
+    "station": "Standard Oven",
+    "ingredients": [
+      {
+        "name": "Oyster Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Salt",
+        "quantity": 5
+      },
+      {
+        "name": "Spicy Pepper",
+        "quantity": 1
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      },
+      {
+        "name": "Heat Root",
+        "quantity": 1
+      },
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Palian Onion Soup",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Palian_Onion_Soup.png",
+    "description": "Simple soup using a base of garlic and caramelized onions, often made by Eshe's childhood housekeeper.",
+    "focus": "100",
+    "sell_price": "22 Gold",
+    "star_sell_price": "27 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Flour",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Pan Fried Dumplings",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Pan_Fried_Dumplings.png",
+    "description": "Crispy, juicy, and tasty, these mouth-watering dumplings are fried to crispy perfection. Best enjoyed with a dipping sauce.",
+    "focus": "250",
+    "sell_price": "40 Gold",
+    "star_sell_price": "48 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Cooking Oil",
+        "quantity": 1
+      },
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Ginger",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Petit Fives",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Petit_Fives.png",
+    "description": "A bite-sized morsel of cloying joy. Neat as a pin, these delicacies were designed by the oddly geometrical chef John Petit. It's a waste of cake, but the man loved his pentagons.",
+    "focus": "400",
+    "sell_price": "81 Gold",
+    "star_sell_price": "112 Gold",
+    "station": "Prep Station",
+    "ingredients": [
+      {
+        "name": "Sugar",
+        "quantity": 2
+      },
+      {
+        "name": "Butter",
+        "quantity": 2
+      },
+      {
+        "name": "Egg",
+        "quantity": 1
+      },
+      {
+        "name": "Flour",
+        "quantity": 1
+      },
+      {
+        "name": "Sweet Leaf",
+        "quantity": 2
+      },
+      {
+        "name": "Milk",
+        "quantity": 1
+      },
+      {
+        "name": "Any Fruit",
+        "quantity": 1
+      },
+      {
+        "name": "Corn",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Phoenixfire Relleno",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Phoenixfire_Relleno.png",
+    "description": "A spicy pepper, coated with egg and stuffed with your choice of meat. A single bite will have you working up a sweat! Or send you straight to the nearest clinic.",
+    "focus": "300",
+    "sell_price": "48 Gold",
+    "star_sell_price": "66 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Egg",
+        "quantity": 1
+      },
+      {
+        "name": "Flour",
+        "quantity": 1
+      },
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Spicy Pepper",
+        "quantity": 2
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Cooking Oil",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Poke Bowl",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Poke_Bowl.png",
+    "description": "A colorful Maji Market delicacy of raw fish, vegetables, and spices. Popular in Inyrevn due to the region's abundance of fresh seafood.",
+    "focus": "525",
+    "sell_price": "171 Gold",
+    "star_sell_price": "174 Gold",
+    "station": "Mixing Station",
+    "ingredients": [
+      {
+        "name": "Vinegar",
+        "quantity": 1
+      },
+      {
+        "name": "Any Fish",
+        "quantity": 1
+      },
+      {
+        "name": "Any Spice",
+        "quantity": 1
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Dari Cloves",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Heat Root",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Pumpkin Curry and Rice",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Pumpkin_Curry_and_Rice.png",
+    "description": "This curry boasts a complex flavor profile thanks to its secret ingredient, Kopaa Nuts! Somehow tastes even better the day after you make it.",
+    "focus": "550",
+    "sell_price": "82 Gold",
+    "star_sell_price": "82 Gold",
+    "station": "Mixing Station",
+    "ingredients": [
+      {
+        "name": "Rice",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Spicy Pepper",
+        "quantity": 1
+      },
+      {
+        "name": "Rockhopper Pumpkin",
+        "quantity": 1
+      },
+      {
+        "name": "Heat Root",
+        "quantity": 1
+      },
+      {
+        "name": "Kopaa Nuts",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Pumpkin Pie",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Pumpkin_Pie.png",
+    "description": "In Kilima this is a popular seasonal pie during the brisk autumn months, but in Umbraa it's eaten year-round.",
+    "focus": "350",
+    "sell_price": "36 Gold",
+    "star_sell_price": "87 Gold",
+    "station": "Standard Oven",
+    "ingredients": [
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Milk",
+        "quantity": 1
+      },
+      {
+        "name": "Rockhopper Pumpkin",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "name": "Pumpkin Stew",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Pumpkin_Stew.png",
+    "description": "A spicy stew made from fresh pumpkin and hearty chunks of meat. Guaranteed to leave you satisfied.",
+    "focus": "500",
+    "sell_price": "72 Gold",
+    "star_sell_price": "72 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Rockhopper Pumpkin",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Heat Root",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Quiche Caleri",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Quiche_Caleri.png",
+    "description": "A protein-packed breakfast quiche from Caleri's personal recipe book. Enough meat and eggs to keep you going all day... especially when dealing with dog-eared pages and unreturned books.",
+    "focus": "175",
+    "sell_price": "34 Gold",
+    "star_sell_price": "48 Gold",
+    "station": "Standard Oven",
+    "ingredients": [
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Egg",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 1
+      },
+      {
+        "name": "Any Mushroom",
+        "quantity": 1
+      },
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Ramen",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Ramen.png",
+    "description": "Hand-pulled noodles in garlic broth, topped with soft-boiled egg and mushrooms. Can be served in a cup.",
+    "focus": "125",
+    "sell_price": "30 Gold",
+    "star_sell_price": "37 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Any Mushroom",
+        "quantity": 1
+      },
+      {
+        "name": "Egg",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Rice Cake Soup",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Rice_Cake_Soup.png",
+    "description": "Unwind after a long day with a hearty bowl of rice cake soup and its delightfully chewy and crunchy textures.",
+    "focus": "300",
+    "sell_price": "45 Gold",
+    "star_sell_price": "45 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Egg",
+        "quantity": 1
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 1
+      },
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Rice",
+        "quantity": 1
+      },
+      {
+        "name": "Napa Cabbage",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Green Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Rice Cake Stir Fry",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Rice_Cake_Stir_Fry.png",
+    "description": "Embrace the wonderful world of stir fry with a fresh serving of stir fried rice cake, and all of the veggie goodness that comes along with it.",
+    "focus": "475",
+    "sell_price": "116 Gold",
+    "star_sell_price": "116 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Cooking Oil",
+        "quantity": 2
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Ginger",
+        "quantity": 1
+      },
+      {
+        "name": "Rice",
+        "quantity": 1
+      },
+      {
+        "name": "Carrot",
+        "quantity": 1
+      },
+      {
+        "name": "Bok Choy",
+        "quantity": 1
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 1
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Green Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Sashimi",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Sashimi.png",
+    "description": "A minimal meal of slices of raw fish, with a side of plain rice. Buffs fishing rod health for a short time.",
+    "focus": "100",
+    "sell_price": "30 Gold",
+    "star_sell_price": "34 Gold",
+    "station": "Prep Station",
+    "ingredients": [
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Rice",
+        "quantity": 1
+      },
+      {
+        "name": "Any Fish",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Sernuk Noodle Stew",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Sernuk_Noodle_Stew.png",
+    "description": "An army stew traditionally made with foraged vegetables. Civilian chefs elevated it with spices and noodles.",
+    "focus": "225",
+    "sell_price": "47 Gold",
+    "star_sell_price": "63 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Sernuk Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Carrot",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Shepp's Pie",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Shepp%27s_Pie.png",
+    "description": "This pie might look simple, but it is anything but. Packed with juicy chapaa meat and a savory mix of seasoned vegetables, this bad boy is an explosion of flavor in each bite.",
+    "focus": "325",
+    "sell_price": "64 Gold",
+    "star_sell_price": "90-100 Gold",
+    "station": "Standard Oven",
+    "ingredients": [
+      {
+        "name": "Salt",
+        "quantity": 1
+      },
+      {
+        "name": "Corn",
+        "quantity": 1
+      },
+      {
+        "name": "Potato",
+        "quantity": 1
+      },
+      {
+        "name": "Carrot",
+        "quantity": 1
+      },
+      {
+        "name": "Chapaa Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Soon Tofu",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Soon_Tofu.png",
+    "description": "Extra soft, silky tofu is the main ingredient of this dish. Each spoonful practically melts in your mouth, and the mild flavor helps cut the spice of the soup base.",
+    "focus": "400",
+    "sell_price": "120 Gold",
+    "star_sell_price": "117 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Egg",
+        "quantity": 1
+      },
+      {
+        "name": "Rice",
+        "quantity": 1
+      },
+      {
+        "name": "Batterfly Beans",
+        "quantity": 3
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Spicy Pepper",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Spicy Crab Fried Rice",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Spicy_Crab_Fried_Rice.png",
+    "description": "Did a crab fry this rice? Probably not, but a spicy one certainly did make it into this dish, which is as fulfilling as it is fragrant.",
+    "focus": "400",
+    "sell_price": "88 Gold",
+    "star_sell_price": "96 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Cooking Oil",
+        "quantity": 1
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 1
+      },
+      {
+        "name": "Egg",
+        "quantity": 1
+      },
+      {
+        "name": "Any Crab",
+        "quantity": 1
+      },
+      {
+        "name": "Rice",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      },
+      {
+        "name": "Spicy Pepper",
+        "quantity": 1
+      },
+      {
+        "name": "Napa Cabbage",
+        "quantity": 1
+      },
+      {
+        "name": "Corn",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Green Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Spicy Honey-Baked Muujin",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Spicy_Honey-Baked_Muujin.png",
+    "description": "The centerpiece of any self-respecting Palian stateswoman's feast.",
+    "focus": "275",
+    "sell_price": "77 Gold",
+    "star_sell_price": "115 Gold",
+    "station": "Standard Oven",
+    "ingredients": [
+      {
+        "name": "Honey",
+        "quantity": 1
+      },
+      {
+        "name": "Spicy Pepper",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Muujin Meat",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Spicy Rice Cakes",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Spicy_Rice_Cakes.png",
+    "description": "Chewy and flavorful, these rice cakes are stir-fried in a specialty sauce packed with just the right amount of spice. Ancient Humans were said to share this dish at the dinner table together.",
+    "focus": "425",
+    "sell_price": "124 Gold",
+    "star_sell_price": "124 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Cooking Oil",
+        "quantity": 2
+      },
+      {
+        "name": "Spicy Pepper",
+        "quantity": 1
+      },
+      {
+        "name": "Dari Cloves",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Heat Root",
+        "quantity": 1
+      },
+      {
+        "name": "Rice",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Spicy Stir Fry",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Spicy_Stir_Fry.png",
+    "description": "A flaming hot twist to traditional stir fry, this dish will have you thirsty for seconds and a glass of cold water.",
+    "focus": "325",
+    "sell_price": "50 Gold",
+    "star_sell_price": "82 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Salt",
+        "quantity": 1
+      },
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      },
+      {
+        "name": "Any Vegetable",
+        "quantity": 1
+      },
+      {
+        "name": "Rice",
+        "quantity": 1
+      },
+      {
+        "name": "Cooking Oil",
+        "quantity": 1
+      },
+      {
+        "name": "Spicy Pepper",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Steak Dinner",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Steak_Dinner.png",
+    "description": "Steak seared in herb butter, served with a baguette. This versatile recipe adapts easily to most meats.",
+    "focus": "225",
+    "sell_price": "34 Gold",
+    "star_sell_price": "45 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Wheat",
+        "quantity": 1
+      },
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Steamed Fish",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Steamed_Fish.png",
+    "description": "Steamed whole and flavored with ginger, scallions, and soy sauce, this fish makes for a savory yet light meal. Enjoy it during Luna New Year for an abundance of good luck.",
+    "focus": "150",
+    "sell_price": "37 Gold",
+    "star_sell_price": "81 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Bahari Bream",
+        "quantity": 1
+      },
+      {
+        "name": "Cooking Oil",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Ginger",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Green Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Stuffed Cabbage Rolls",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Stuffed_Cabbage_Rolls.png",
+    "description": "Simple yet tasty, these cabbage rolls are stuffed with flavor and make the perfect bite-sized snacks. Drizzle sauce on them for extra enjoyment.",
+    "focus": "275",
+    "sell_price": "35 Gold",
+    "star_sell_price": "48 Gold",
+    "station": "Standard Oven",
+    "ingredients": [
+      {
+        "name": "Napa Cabbage",
+        "quantity": 1
+      },
+      {
+        "name": "Any Red Meat",
+        "quantity": 1
+      },
+      {
+        "name": "Any Mushroom",
+        "quantity": 1
+      },
+      {
+        "name": "Carrot",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Green Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Stuffed Tomatoes",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Stuffed_Tomatoes.png",
+    "description": "Tomatoes in butter, stuffed with their own, spiced, innards. Don't think too hard about it.",
+    "focus": "225",
+    "sell_price": "45 Gold",
+    "star_sell_price": "57 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Butter",
+        "quantity": 1
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Sushi",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Sushi.png",
+    "description": "A pleasant meal of seasoned rice topped with raw fish, garnished with spices. Buffs fishing rod health for a short time.",
+    "focus": "325",
+    "sell_price": "144 Gold",
+    "star_sell_price": "144 Gold",
+    "station": "Prep Station",
+    "ingredients": [
+      {
+        "name": "Dari Cloves",
+        "quantity": 1
+      },
+      {
+        "name": "Any Fish",
+        "quantity": 1
+      },
+      {
+        "name": "Heat Root",
+        "quantity": 1
+      },
+      {
+        "name": "Vinegar",
+        "quantity": 1
+      },
+      {
+        "name": "Rice",
+        "quantity": 1
+      },
+      {
+        "name": "Sweet Leaf",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Trout Dinner",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Trout_Dinner.png",
+    "description": "Garlic-seared trout with potatoes, created so ancient humans could share Einar's love of fishing. Hook fish more quickly for a short time.",
+    "focus": "200",
+    "sell_price": "67 Gold",
+    "star_sell_price": "121 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Any Trout",
+        "quantity": 1
+      },
+      {
+        "name": "Any Spice",
+        "quantity": 1
+      },
+      {
+        "name": "Potato",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Veggie Chili",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Veggie_Chili.png",
+    "description": "Various nations of the Palian Republic have their own version of this popular dish, but in Umbraa there's only one rule: it HAS to have beans.",
+    "focus": "675",
+    "sell_price": "148 Gold",
+    "star_sell_price": "148 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Batterfly Beans",
+        "quantity": 3
+      },
+      {
+        "name": "Salt",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      },
+      {
+        "name": "Spice Sprouts",
+        "quantity": 1
+      },
+      {
+        "name": "Spicy Pepper",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Corn",
+        "quantity": 1
+      },
+      {
+        "name": "Carrot",
+        "quantity": 1
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Veggie Fried Rice",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Veggie_Fried_Rice.png",
+    "description": "Rice and vegetables fried in a pan with fresh eggs, making a savory main or side dish. Also a great way to use up leftovers.",
+    "focus": "225",
+    "sell_price": "47 Gold",
+    "star_sell_price": "64 Gold",
+    "station": "Standard Stove",
+    "ingredients": [
+      {
+        "name": "Cooking Oil",
+        "quantity": 1
+      },
+      {
+        "name": "Egg",
+        "quantity": 1
+      },
+      {
+        "name": "Onion",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Garlic",
+        "quantity": 1
+      },
+      {
+        "name": "Carrot",
+        "quantity": 1
+      },
+      {
+        "name": "Rice",
+        "quantity": 1
+      }
+    ]
+  }
+]
