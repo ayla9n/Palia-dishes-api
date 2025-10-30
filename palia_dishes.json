@@ -32,7 +32,10 @@
         "name": "Spice Sprouts",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Rare",
+    "rarity_color": "#66B7FF",
+    "recipe_obtain": "Quest - Lost in the Wind"
   },
   {
     "name": "Apple Pie",
@@ -63,7 +66,10 @@
         "name": "Spice Sprouts",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Rare",
+    "rarity_color": "#66B7FF",
+    "recipe_obtain": "Delaila and Badruu's Room • Delaila's Key"
   },
   {
     "name": "Bacon-Stuffed Mushrooms",
@@ -94,7 +100,10 @@
         "name": "Spice Sprouts",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Daiya Family's House"
   },
   {
     "name": "Bean Burger",
@@ -145,7 +154,10 @@
         "name": "Wheat",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Elderwood • Treasure Chest"
   },
   {
     "name": "Blueberry Pie",
@@ -176,7 +188,10 @@
         "name": "Sweet Leaf",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Cooking Guild • 1,500 Gold"
   },
   {
     "name": "Bouillabaisse",
@@ -211,7 +226,10 @@
         "name": "Spice Sprouts",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Rare",
+    "rarity_color": "#66B7FF",
+    "recipe_obtain": "Freshwater Bundle"
   },
   {
     "name": "Celebration Cake",
@@ -254,7 +272,10 @@
         "name": "Sugar",
         "quantity": 3
       }
-    ]
+    ],
+    "rarity": "Epic",
+    "rarity_color": "#E67AFF",
+    "recipe_obtain": "Cooking Guild • 3,000 Gold"
   },
   {
     "name": "Chapaa Asada Tacos",
@@ -289,7 +310,10 @@
         "name": "Onion",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Cooking Guild • 500 Gold"
   },
   {
     "name": "Chapaa Masala",
@@ -332,7 +356,10 @@
         "name": "Heat Root",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Epic",
+    "rarity_color": "#E67AFF",
+    "recipe_obtain": "Cooking Guild • 2,500 Gold"
   },
   {
     "name": "Chapaa Onigiri",
@@ -363,7 +390,10 @@
         "name": "Spice Sprouts",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Rare",
+    "rarity_color": "#66B7FF",
+    "recipe_obtain": "Reth's Street Specialties • 1"
   },
   {
     "name": "Chili Oil Dumplings",
@@ -402,7 +432,28 @@
         "name": "Spicy Pepper",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Rare",
+    "rarity_color": "#66B7FF",
+    "recipe_obtain": "Cooking Guild • 2,500 Gold"
+  },
+  {
+    "name": "Congee",
+    "image": "https://ayla9n.github.io/Palia-dishes-api/images/Congee.png",
+    "description": "Humble rice slow simmered over a fire until it turns into a soft porridge. Simple and hearty.",
+    "focus": "50",
+    "sell_price": "53 Gold",
+    "star_sell_price": "81 Gold",
+    "station": "Campfire",
+    "ingredients": [
+      {
+        "name": "Rice",
+        "quantity": 2
+      }
+    ],
+    "rarity": "common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Quest - Extravagant Expectations"
   },
   {
     "name": "Crab Gumbo",
@@ -437,7 +488,10 @@
         "name": "Spicy Pepper",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Zeki's Room • Zeki's Key"
   },
   {
     "name": "Crab Pot Pie",
@@ -472,7 +526,10 @@
         "name": "Any Crab",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Cooking Guild • 1,000 Gold"
   },
   {
     "name": "Cream of Mushroom Soup",
@@ -507,7 +564,10 @@
         "name": "Wild Garlic",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Hekla's Tent • Hekla's Key • Quest - Cheer Up"
   },
   {
     "name": "Cream of Tomato Soup",
@@ -538,7 +598,10 @@
         "name": "Spice Sprouts",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Reth's Storeroom • Reth's Key"
   },
   {
     "name": "Creamy Carrot Soup",
@@ -565,7 +628,10 @@
         "name": "Wild Garlic",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Library • Library Card"
   },
   {
     "name": "Elderwood Pie",
@@ -600,7 +666,10 @@
         "name": "Onion",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Quest - Little Bumble's Pie"
   },
   {
     "name": "Fish Stew",
@@ -623,7 +692,10 @@
         "name": "Wild Garlic",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Fishing from Bahari Coast using a Worm"
   },
   {
     "name": "Fish Tacos",
@@ -646,7 +718,10 @@
         "name": "Corn",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Cooking Guild • 200 Gold"
   },
   {
     "name": "Flowtato Fries with Ketchup",
@@ -677,7 +752,10 @@
         "name": "Tomato",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Elderwood • Treasure Chest"
   },
   {
     "name": "Fried Catfish Dinner",
@@ -708,7 +786,10 @@
         "name": "Tomato",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Hassian's Grove • Hassian's Key"
   },
   {
     "name": "Fruit Smoothie Bowl",
@@ -735,7 +816,10 @@
         "name": "Piksii Berries",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Nai'o and Auni's Room • Nai'o's Key"
   },
   {
     "name": "Grilled Fish",
@@ -750,7 +834,10 @@
         "name": "Any Fish",
         "quantity": 2
       }
-    ]
+    ],
+    "rarity": "Common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Quest - Cooking 101"
   },
   {
     "name": "Grilled Meat",
@@ -765,7 +852,10 @@
         "name": "Any Red Meat",
         "quantity": 2
       }
-    ]
+    ],
+    "rarity": "Common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Quest - Cooking 101"
   },
   {
     "name": "Grilled Mushroom",
@@ -780,7 +870,10 @@
         "name": "Any Mushroom",
         "quantity": 3
       }
-    ]
+    ],
+    "rarity": "Common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Quest - Learning the Ropes"
   },
   {
     "name": "Grilled Oyster",
@@ -795,7 +888,10 @@
         "name": "Oyster Meat",
         "quantity": 3
       }
-    ]
+    ],
+    "rarity": "Common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Quest - Cooking 101"
   },
   {
     "name": "Hearty Vegetable Soup",
@@ -818,7 +914,10 @@
         "name": "Any Mushroom",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Cooking Guild • 50 Gold"
   },
   {
     "name": "Hot Hounds",
@@ -845,7 +944,10 @@
         "name": "Spicy Pepper",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Hodari's Room • Hodari's Key"
   },
   {
     "name": "Kimchi Fried Rice",
@@ -880,7 +982,10 @@
         "name": "Wild Green Onion",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Tavern • 2,000 • Reth's Street Specialties • 2,000"
   },
   {
     "name": "Loaded Flowtato",
@@ -907,7 +1012,10 @@
         "name": "Milk",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Elouisa's Room • Elouisa's Key"
   },
   {
     "name": "Loaded Potato Soup",
@@ -938,7 +1046,10 @@
         "name": "Wild Garlic",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Hodari and Najuma's House"
   },
   {
     "name": "Lucky Braised Fish",
@@ -981,7 +1092,10 @@
         "name": "Vinegar",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Epic",
+    "rarity_color": "#E67AFF",
+    "recipe_obtain": "Reth's Street Specialties • 8,000"
   },
   {
     "name": "Macaron",
@@ -1008,7 +1122,10 @@
         "name": "Sweet Leaf",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Quest - The Great Human Bake-Off"
   },
   {
     "name": "Meaty Stir Fry",
@@ -1039,7 +1156,10 @@
         "name": "Rice",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Rare",
+    "rarity_color": "#66B7FF",
+    "recipe_obtain": "Cooking Guild • 1,000 Gold"
   },
   {
     "name": "Mushroom Dumpling Soup",
@@ -1086,7 +1206,10 @@
         "name": "Wild Green Onion",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Reth's Street Specialties • 2,000"
   },
   {
     "name": "Mushroom Quiche",
@@ -1113,7 +1236,10 @@
         "name": "Any Mushroom",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Pie in the Sky Bundle"
   },
   {
     "name": "Muujin Bahari",
@@ -1184,7 +1310,10 @@
         "name": "Egg",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Epic",
+    "rarity_color": "#E67AFF",
+    "recipe_obtain": "Cooking Guild • 100"
   },
   {
     "name": "Oysters Akwinduu",
@@ -1231,7 +1360,10 @@
         "name": "Any Red Meat",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Rare",
+    "rarity_color": "#66B7FF",
+    "recipe_obtain": "Cooking Guild • 100"
   },
   {
     "name": "Palian Onion Soup",
@@ -1254,7 +1386,10 @@
         "name": "Wild Garlic",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Quest - Half Boiled"
   },
   {
     "name": "Pan Fried Dumplings",
@@ -1285,7 +1420,10 @@
         "name": "Wheat",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Tavern • 1,000 • Reth's Street Specialties • 1,000"
   },
   {
     "name": "Petit Fives",
@@ -1328,7 +1466,10 @@
         "name": "Corn",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Rare",
+    "rarity_color": "#66B7FF",
+    "recipe_obtain": "Quest - Your Order is Served"
   },
   {
     "name": "Phoenixfire Relleno",
@@ -1363,7 +1504,10 @@
         "name": "Cooking Oil",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Rare",
+    "rarity_color": "#66B7FF",
+    "recipe_obtain": "Cooking Guild • 2,000 Gold"
   },
   {
     "name": "Poke Bowl",
@@ -1410,7 +1554,10 @@
         "name": "Heat Root",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Epic",
+    "rarity_color": "#E67AFF",
+    "recipe_obtain": "Reth's Street Specialties • 1"
   },
   {
     "name": "Pumpkin Curry and Rice",
@@ -1445,7 +1592,10 @@
         "name": "Kopaa Nuts",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Najuma's Room • Najuma's Key"
   },
   {
     "name": "Pumpkin Pie",
@@ -1476,7 +1626,10 @@
         "name": "Wheat",
         "quantity": 3
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Kenli's Records Room • Kenli's Key"
   },
   {
     "name": "Pumpkin Stew",
@@ -1507,7 +1660,10 @@
         "name": "Heat Root",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Cooking Guild • 2,500 Gold"
   },
   {
     "name": "Quiche Caleri",
@@ -1538,7 +1694,10 @@
         "name": "Any Red Meat",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Quest - Pages Unseen"
   },
   {
     "name": "Ramen",
@@ -1565,7 +1724,10 @@
         "name": "Wild Garlic",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Obtained automatically"
   },
   {
     "name": "Rice Cake Soup",
@@ -1600,7 +1762,10 @@
         "name": "Wild Green Onion",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Reth's Street Specialties • 2,000"
   },
   {
     "name": "Rice Cake Stir Fry",
@@ -1651,7 +1816,10 @@
         "name": "Wild Green Onion",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Rare",
+    "rarity_color": "#66B7FF",
+    "recipe_obtain": "Obtained automatically"
   },
   {
     "name": "Sashimi",
@@ -1674,7 +1842,10 @@
         "name": "Any Fish",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Fishing from Bahari Rivers without bait"
   },
   {
     "name": "Sernuk Noodle Stew",
@@ -1705,7 +1876,10 @@
         "name": "Carrot",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Ashura's Room • Ashura's Key"
   },
   {
     "name": "Shepp's Pie",
@@ -1744,7 +1918,10 @@
         "name": "Spice Sprouts",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Rare",
+    "rarity_color": "#66B7FF",
+    "recipe_obtain": "Cooking Guild • 1,500"
   },
   {
     "name": "Soon Tofu",
@@ -1779,7 +1956,10 @@
         "name": "Spicy Pepper",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Cooking Guild • 1,500 Gold"
   },
   {
     "name": "Spicy Crab Fried Rice",
@@ -1830,7 +2010,10 @@
         "name": "Wild Green Onion",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Rare",
+    "rarity_color": "#66B7FF",
+    "recipe_obtain": "Tavern • 2,000 • Reth's Street Specialties • 2,000"
   },
   {
     "name": "Spicy Honey-Baked Muujin",
@@ -1857,7 +2040,10 @@
         "name": "Muujin Meat",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Eshe's Room • Eshe's Key"
   },
   {
     "name": "Spicy Rice Cakes",
@@ -1896,7 +2082,10 @@
         "name": "Rice",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Epic",
+    "rarity_color": "#E67AFF",
+    "recipe_obtain": "Sear-chef Bundle"
   },
   {
     "name": "Spicy Stir Fry",
@@ -1935,7 +2124,10 @@
         "name": "Spicy Pepper",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Rare",
+    "rarity_color": "#66B7FF",
+    "recipe_obtain": "Cooking Guild • 2,500"
   },
   {
     "name": "Steak Dinner",
@@ -1962,7 +2154,10 @@
         "name": "Spice Sprouts",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Cooking Guild • 500"
   },
   {
     "name": "Steamed Fish",
@@ -1989,7 +2184,10 @@
         "name": "Wild Green Onion",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Common",
+    "rarity_color": "#B4B4B4",
+    "recipe_obtain": "Tavern • 1,000 • Reth's Street Specialties • 1,000"
   },
   {
     "name": "Stuffed Cabbage Rolls",
@@ -2020,7 +2218,10 @@
         "name": "Wild Green Onion",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Tavern • 2,000 • Reth's Street Specialties • 2,000"
   },
   {
     "name": "Stuffed Tomatoes",
@@ -2051,7 +2252,10 @@
         "name": "Wild Garlic",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Fruits of the Earth Bundle"
   },
   {
     "name": "Sushi",
@@ -2086,7 +2290,10 @@
         "name": "Sweet Leaf",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Rare",
+    "rarity_color": "#66B7FF",
+    "recipe_obtain": "Fishing from Ponds using a Glow Worm"
   },
   {
     "name": "Trout Dinner",
@@ -2113,7 +2320,10 @@
         "name": "Wild Garlic",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Obtained automatically"
   },
   {
     "name": "Veggie Chili",
@@ -2160,7 +2370,10 @@
         "name": "Tomato",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Uncommon",
+    "rarity_color": "#8AFF73",
+    "recipe_obtain": "Chayne's Room • Chayne's Key"
   },
   {
     "name": "Veggie Fried Rice",
@@ -2195,6 +2408,9 @@
         "name": "Rice",
         "quantity": 1
       }
-    ]
+    ],
+    "rarity": "Rare",
+    "rarity_color": "#66B7FF",
+    "recipe_obtain": "Cooking Guild • 2,000"
   }
 ]
